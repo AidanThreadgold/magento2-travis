@@ -18,3 +18,5 @@ Assuming your module is [setup in a git repository somewhere as a composer packa
 to point to your repository.  The travis script will checkout magento's develop branch, add your github repository as a composer repository, require in your named composer package, and then install Magento 2.  At the end of the process you'll have a built out Magento enviornment that's suitable for running integration/acceptance tests against. 
 
 The rest should be self explanatory via the comments.  If you're confused by something, or something doesn't work, please open a GitHub issue here. 
+
+test
